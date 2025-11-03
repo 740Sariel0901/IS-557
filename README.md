@@ -1,2 +1,2 @@
-# IS-557
+# IS-557-Movie-Prediction
 Predict movie ratings using user data from Letterboxd
